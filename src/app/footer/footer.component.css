@@ -1,0 +1,26 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#06085a;
+    color: white;
+    text-align: center;
+    height: 60px;
+ }
+
+ ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    float:left;
+    margin-left: -117px;
+  }
+  li{
+    display: inline;
+    padding: 20px 20px;
+  }
+  a{
+    text-decoration: none;
+    color:white;
+  }
